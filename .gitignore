@@ -6,9 +6,11 @@ __pycache__/
 .env
 .venv/
 venv/
+venv-tf/
 
 # Configuración del editor
 .vscode/
+.ini
 
 # Datos
 data/raw/*
