@@ -10,7 +10,7 @@ venv-tf/
 
 # Configuración del editor
 .vscode/
-.ini
+*.ini
 
 # Datos
 data/raw/*
